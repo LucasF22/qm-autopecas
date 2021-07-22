@@ -1,0 +1,10 @@
+------Faturamento do dia-------
+
+Código	Nome	Quantidade	Valor
+
+
+2 ventoinha            2     150.00         
+
+
+
+Total faturado: R$300.0
